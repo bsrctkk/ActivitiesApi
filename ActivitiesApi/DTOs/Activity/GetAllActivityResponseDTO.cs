@@ -1,0 +1,9 @@
+﻿namespace ActivitiesApi.DTOs.Activity
+{
+    public class GetAllActivityResponseDTO
+    {
+        public int Id { get; set; }
+        public string? Title { get; set; }
+        public string? Description { get; set; }
+    }
+}
