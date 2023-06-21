@@ -79,7 +79,7 @@ The project is primarily based on the ActivityDetail table, which establishes re
 
 You can leverage these relationships to query data from related tables and perform database operations.
 
-![database image](C:\Users\busra\OneDrive\Masaüstü\images\database.png)
+![Database](images/database.png)
 
 ## Contact
 
